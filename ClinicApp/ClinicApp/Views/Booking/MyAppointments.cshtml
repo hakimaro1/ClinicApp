@@ -1,0 +1,54 @@
+﻿@model IEnumerable<ClinicApp.Models.Appointment>
+@using ClinicApp.Models
+@{
+    var doctors = ViewBag.Doctors as List<DoctorProfile>;
+}
+
+<h2>Мои записи на прием</h2>
+
+@if (!Model.Any())
+{
+    <p>У вас пока нет записей. <a asp-action="Index">Записаться на прием</a></p>
+}
+else
+{
+    <table class="table table-bordered mt-4">
+        <thead class="table-dark">
+            <tr>
+                <th>Дата и время</th>
+                <th>Врач (ФИО)</th>
+                <th>Специализация</th>
+                <th>Статус</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                var doctor = item.Doctor; // Берем напрямую
+                var doctorName = $"{doctor?.LastName} {doctor?.FirstName}".Trim();
+                if (string.IsNullOrWhiteSpace(doctorName)) doctorName = "Врач не указан";
+                var specialization = doctor?.Specialization ?? "Не указана";
+
+                <tr>
+                    <td>@item.TimeSlot?.Start.ToString("dd.MM.yyyy HH:mm")</td>
+                    <td>@doctorName</td>
+                    <td>@specialization</td>
+                    <td>
+                        @if (item.TimeSlot?.Start < DateTime.Now)
+                        {
+                            <span class="badge bg-secondary">Завершен</span>
+                        }
+                        else if (item.TimeSlot?.Status == "Confirmed")
+                        {
+                            <span class="badge bg-success">Подтверждена</span>
+                        }
+                        else
+                        {
+                            <span class="badge bg-warning text-dark">Ожидает</span>
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

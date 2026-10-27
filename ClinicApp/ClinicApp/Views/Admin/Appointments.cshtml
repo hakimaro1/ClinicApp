@@ -1,0 +1,76 @@
+﻿@model IEnumerable<ClinicApp.Models.Appointment>
+@using Microsoft.AspNetCore.Identity
+@using ClinicApp.Models
+@{
+    var users = ViewBag.Users as List<IdentityUser>;
+    var patientProfiles = ViewBag.PatientProfiles as List<PatientProfile>;
+}
+
+<h2>Контроль записей пациентов</h2>
+
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success">@TempData["Success"]</div>
+}
+
+<table class="table table-bordered mt-4">
+    <thead class="table-dark">
+        <tr>
+            <th>Дата и время</th>
+            <th>Врач (ФИО)</th>
+            <th>Пациент (ФИО)</th>
+            <th>Статус</th>
+            <th>Действие</th> <!-- НОВАЯ КОЛОНКА -->
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            var doctor = item.Doctor;
+            var doctorName = $"{doctor?.LastName} {doctor?.FirstName}".Trim();
+            if (string.IsNullOrWhiteSpace(doctorName)) doctorName = "Неизвестный врач";
+
+            var patientProfile = patientProfiles?.FirstOrDefault(p => p.UserId == item.PatientId);
+            var patientFullName = $"{patientProfile?.LastName} {patientProfile?.FirstName}".Trim();
+            if (string.IsNullOrWhiteSpace(patientFullName)) patientFullName = "Не указано";
+
+            <tr>
+                <td>@item.TimeSlot?.Start.ToString("dd.MM.yyyy HH:mm")</td>
+                <td>@doctorName</td>
+                <td>@patientFullName</td>
+                <td>
+                    @if (item.TimeSlot?.Start < DateTime.Now)
+                    {
+                        <span class="badge bg-secondary">Завершен</span>
+                    }
+                    else if (item.TimeSlot?.Status == "Confirmed")
+                    {
+                        <span class="badge bg-success">Подтвержден</span>
+                    }
+                    else
+                    {
+                        <span class="badge bg-warning text-dark">Ожидает</span>
+                    }
+                </td>
+                <td>
+                    @if (item.TimeSlot?.Status != "Confirmed" && item.TimeSlot?.Start > DateTime.Now)
+                    {
+                        <form asp-action="ConfirmAppointment" method="post" class="d-inline">
+                            <input type="hidden" name="appointmentId" value="@item.Id" />
+                            <button type="submit" class="btn btn-sm btn-success">Подтвердить</button>
+                        </form>
+                    }
+                    @if (item.TimeSlot?.Status == "Confirmed" || item.TimeSlot?.Start > DateTime.Now)
+                    {
+                        <form asp-action="CancelAppointment" method="post" class="d-inline ms-2">
+                            <input type="hidden" name="appointmentId" value="@item.Id" />
+                            <button type="submit" class="btn btn-sm btn-danger">Отменить</button>
+                        </form>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Index" class="btn btn-secondary mt-3">Назад к списку врачей</a>

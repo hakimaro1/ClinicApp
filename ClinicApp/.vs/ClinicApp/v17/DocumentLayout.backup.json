@@ -1,0 +1,1424 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\views\\account\\stafflogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\views\\account\\stafflogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sanya\\AppData\\Local\\Temp\\.vsdbgsrc\\d339903cec209f17830fc580bf135057b07437fe55b7266f4e0f2babdba65a29\\MemoryPoolViewBufferScope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\views\\admin\\appointments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\views\\admin\\appointments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\views\\doctor\\mypatients.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\views\\doctor\\mypatients.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\views\\booking\\myappointments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\views\\booking\\myappointments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\views\\patient\\mytreatment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\views\\patient\\mytreatment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\views\\patient\\medicalhistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\views\\patient\\medicalhistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\views\\patient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\views\\patient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\views\\patient\\chat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\views\\patient\\chat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\views\\admin\\medications.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\views\\admin\\medications.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\views\\doctor\\medicalrecord.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\views\\doctor\\medicalrecord.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\views\\doctor\\chat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\views\\doctor\\chat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\views\\doctor\\medications.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\views\\doctor\\medications.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\models\\medicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\models\\medicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\views\\doctor\\prescribemedication.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\views\\doctor\\prescribemedication.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\models\\medication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\models\\medication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\views\\doctor\\prescribe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\views\\doctor\\prescribe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\views\\doctor\\createmedication.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\views\\doctor\\createmedication.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\migrations\\20261026174336_fixmedicationdates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\migrations\\20261026174336_fixmedicationdates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\models\\prescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\models\\prescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\models\\medicationschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\models\\medicationschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\models\\prescribeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\models\\prescribeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\views\\admin\\createmedication.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\views\\admin\\createmedication.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\models\\patientprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\models\\patientprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\migrations\\20261026094215_fixpatientnames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\migrations\\20261026094215_fixpatientnames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\clinicapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\clinicapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\views\\admin\\createdoctor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\views\\admin\\createdoctor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\models\\doctorprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\models\\doctorprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\migrations\\20261025081052_resetdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\migrations\\20261025081052_resetdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\migrations\\20261023090441_addnavigationproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\migrations\\20261023090441_addnavigationproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\controllers\\redirectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\controllers\\redirectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\models\\timeslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\models\\timeslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Migrations\\20261020115256_FixDateTimeTypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClinicApp\\Migrations\\20261020115256_FixDateTimeTypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\views\\doctor\\createschedule.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\views\\doctor\\createschedule.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\models\\doctorcreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\models\\doctorcreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\migrations\\20261023074235_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\migrations\\20261023074235_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\migrations\\20261023082024_fixdatetimetypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\migrations\\20261023082024_fixdatetimetypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\migrations\\20261023092307_adduserfullname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\migrations\\20261023092307_adduserfullname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\migrations\\20261025080257_fixusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\migrations\\20261025080257_fixusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\migrations\\20261025083937_fixdoctorcolumns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\migrations\\20261025083937_fixdoctorcolumns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\migrations\\20261026091636_addpatronymic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\migrations\\20261026091636_addpatronymic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\migrations\\20261026090904_addpatientnames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\migrations\\20261026090904_addpatientnames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\migrations\\20261026095443_fixusercolumns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\migrations\\20261026095443_fixusercolumns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\migrations\\20261026105558_addpatientphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\migrations\\20261026105558_addpatientphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\migrations\\20261026103812_addpatientprofilestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\migrations\\20261026103812_addpatientprofilestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\migrations\\20261026101429_addpatientprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\migrations\\20261026101429_addpatientprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\migrations\\20261026100403_rollbacknames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\migrations\\20261026100403_rollbacknames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\migrations\\20261026172022_addmedicalmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\migrations\\20261026172022_addmedicalmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\migrations\\20261027102922_fixdoctorrelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\migrations\\20261027102922_fixdoctorrelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\migrations\\20261027094317_updatemedicationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\migrations\\20261027094317_updatemedicationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\migrations\\20261027092912_makemedicationrecordoptional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\migrations\\20261027092912_makemedicationrecordoptional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\migrations\\20261027090616_fixmedicalrecorddate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\migrations\\20261027090616_fixmedicalrecorddate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\migrations\\20261027085509_addmedicalrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\migrations\\20261027085509_addmedicalrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\migrations\\20261027111811_adddoctoridtoappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\migrations\\20261027111811_adddoctoridtoappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\migrations\\20261027113853_addmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\migrations\\20261027113853_addmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|c:\\users\\sanya\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\clinicapp\\clinicapp\\migrations\\20261027120748_addappointmentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BE979-7657-4C11-AB68-265102DAF57C}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\migrations\\20261027120748_addappointmentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 276,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 372,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StaffLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Views\\Account\\StaffLogin.cshtml",
+              "RelativeDocumentMoniker": "ClinicApp\\Views\\Account\\StaffLogin.cshtml",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Views\\Account\\StaffLogin.cshtml",
+              "RelativeToolTip": "ClinicApp\\Views\\Account\\StaffLogin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-27T13:16:41.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MemoryPoolViewBufferScope.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\AppData\\Local\\Temp\\.vsdbgsrc\\d339903cec209f17830fc580bf135057b07437fe55b7266f4e0f2babdba65a29\\MemoryPoolViewBufferScope.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\d339903cec209f17830fc580bf135057b07437fe55b7266f4e0f2babdba65a29\\MemoryPoolViewBufferScope.cs",
+              "ToolTip": "C:\\Users\\sanya\\AppData\\Local\\Temp\\.vsdbgsrc\\d339903cec209f17830fc580bf135057b07437fe55b7266f4e0f2babdba65a29\\MemoryPoolViewBufferScope.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\d339903cec209f17830fc580bf135057b07437fe55b7266f4e0f2babdba65a29\\MemoryPoolViewBufferScope.cs [Read Only]",
+              "ViewState": "AgIAADIAAAAAAAAAAAAYwFkAAAAAAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T13:04:46.796Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "20261027120748_AddAppointmentStatus.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Migrations\\20261027120748_AddAppointmentStatus.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Migrations\\20261027120748_AddAppointmentStatus.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Migrations\\20261027120748_AddAppointmentStatus.cs",
+              "RelativeToolTip": "ClinicApp\\Migrations\\20261027120748_AddAppointmentStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T12:07:48.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClinicApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ClinicApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwDEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-27T11:56:16.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ClinicApp\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ClinicApp\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAACgAAAAAAAAAAAAwwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-27T11:54:34.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Chat.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Views\\Doctor\\Chat.cshtml",
+              "RelativeDocumentMoniker": "ClinicApp\\Views\\Doctor\\Chat.cshtml",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Views\\Doctor\\Chat.cshtml",
+              "RelativeToolTip": "ClinicApp\\Views\\Doctor\\Chat.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-27T11:45:11.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Chat.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Views\\Patient\\Chat.cshtml",
+              "RelativeDocumentMoniker": "ClinicApp\\Views\\Patient\\Chat.cshtml",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Views\\Patient\\Chat.cshtml",
+              "RelativeToolTip": "ClinicApp\\Views\\Patient\\Chat.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-27T11:40:49.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "20261027113853_AddMessages.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Migrations\\20261027113853_AddMessages.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Migrations\\20261027113853_AddMessages.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Migrations\\20261027113853_AddMessages.cs",
+              "RelativeToolTip": "ClinicApp\\Migrations\\20261027113853_AddMessages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T11:38:53.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Models\\Message.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Models\\Message.cs",
+              "RelativeToolTip": "ClinicApp\\Models\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T11:37:21.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ClinicApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ClinicApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-27T11:24:26.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "20261027111811_AddDoctorIdToAppointment.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Migrations\\20261027111811_AddDoctorIdToAppointment.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Migrations\\20261027111811_AddDoctorIdToAppointment.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Migrations\\20261027111811_AddDoctorIdToAppointment.cs",
+              "RelativeToolTip": "ClinicApp\\Migrations\\20261027111811_AddDoctorIdToAppointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T11:18:11.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "20261027102922_FixDoctorRelation.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Migrations\\20261027102922_FixDoctorRelation.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Migrations\\20261027102922_FixDoctorRelation.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Migrations\\20261027102922_FixDoctorRelation.cs",
+              "RelativeToolTip": "ClinicApp\\Migrations\\20261027102922_FixDoctorRelation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T10:29:22.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "20261027094317_UpdateMedicationStatus.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Migrations\\20261027094317_UpdateMedicationStatus.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Migrations\\20261027094317_UpdateMedicationStatus.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Migrations\\20261027094317_UpdateMedicationStatus.cs",
+              "RelativeToolTip": "ClinicApp\\Migrations\\20261027094317_UpdateMedicationStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T09:43:17.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PrescribeMedication.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Views\\Doctor\\PrescribeMedication.cshtml",
+              "RelativeDocumentMoniker": "ClinicApp\\Views\\Doctor\\PrescribeMedication.cshtml",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Views\\Doctor\\PrescribeMedication.cshtml",
+              "RelativeToolTip": "ClinicApp\\Views\\Doctor\\PrescribeMedication.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-27T09:39:57.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "20261027092912_MakeMedicationRecordOptional.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Migrations\\20261027092912_MakeMedicationRecordOptional.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Migrations\\20261027092912_MakeMedicationRecordOptional.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Migrations\\20261027092912_MakeMedicationRecordOptional.cs",
+              "RelativeToolTip": "ClinicApp\\Migrations\\20261027092912_MakeMedicationRecordOptional.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T09:29:12.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MedicalHistory.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Views\\Patient\\MedicalHistory.cshtml",
+              "RelativeDocumentMoniker": "ClinicApp\\Views\\Patient\\MedicalHistory.cshtml",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Views\\Patient\\MedicalHistory.cshtml",
+              "RelativeToolTip": "ClinicApp\\Views\\Patient\\MedicalHistory.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAFIAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-27T09:11:22.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "20261027090616_FixMedicalRecordDate.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Migrations\\20261027090616_FixMedicalRecordDate.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Migrations\\20261027090616_FixMedicalRecordDate.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Migrations\\20261027090616_FixMedicalRecordDate.cs",
+              "RelativeToolTip": "ClinicApp\\Migrations\\20261027090616_FixMedicalRecordDate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T09:06:16.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MedicalRecord.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Views\\Doctor\\MedicalRecord.cshtml",
+              "RelativeDocumentMoniker": "ClinicApp\\Views\\Doctor\\MedicalRecord.cshtml",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Views\\Doctor\\MedicalRecord.cshtml",
+              "RelativeToolTip": "ClinicApp\\Views\\Doctor\\MedicalRecord.cshtml",
+              "ViewState": "AgIAADgAAAAAAAAAAAAuwFgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-27T08:59:56.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "20261027085509_AddMedicalRecords.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Migrations\\20261027085509_AddMedicalRecords.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Migrations\\20261027085509_AddMedicalRecords.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Migrations\\20261027085509_AddMedicalRecords.cs",
+              "RelativeToolTip": "ClinicApp\\Migrations\\20261027085509_AddMedicalRecords.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T08:55:09.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MedicalRecord.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Models\\MedicalRecord.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Models\\MedicalRecord.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Models\\MedicalRecord.cs",
+              "RelativeToolTip": "ClinicApp\\Models\\MedicalRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T08:49:17.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20261026174336_FixMedicationDates.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Migrations\\20261026174336_FixMedicationDates.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Migrations\\20261026174336_FixMedicationDates.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Migrations\\20261026174336_FixMedicationDates.cs",
+              "RelativeToolTip": "ClinicApp\\Migrations\\20261026174336_FixMedicationDates.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T17:43:36.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MyTreatment.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Views\\Patient\\MyTreatment.cshtml",
+              "RelativeDocumentMoniker": "ClinicApp\\Views\\Patient\\MyTreatment.cshtml",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Views\\Patient\\MyTreatment.cshtml",
+              "RelativeToolTip": "ClinicApp\\Views\\Patient\\MyTreatment.cshtml",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-26T17:37:40.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CreateMedication.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Views\\Doctor\\CreateMedication.cshtml",
+              "RelativeDocumentMoniker": "ClinicApp\\Views\\Doctor\\CreateMedication.cshtml",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Views\\Doctor\\CreateMedication.cshtml",
+              "RelativeToolTip": "ClinicApp\\Views\\Doctor\\CreateMedication.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-26T17:28:54.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Medications.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Views\\Doctor\\Medications.cshtml",
+              "RelativeDocumentMoniker": "ClinicApp\\Views\\Doctor\\Medications.cshtml",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Views\\Doctor\\Medications.cshtml",
+              "RelativeToolTip": "ClinicApp\\Views\\Doctor\\Medications.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwCAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-26T17:28:18.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Prescribe.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Views\\Doctor\\Prescribe.cshtml",
+              "RelativeDocumentMoniker": "ClinicApp\\Views\\Doctor\\Prescribe.cshtml",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Views\\Doctor\\Prescribe.cshtml",
+              "RelativeToolTip": "ClinicApp\\Views\\Doctor\\Prescribe.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwDYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-26T17:23:31.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "PrescribeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Models\\PrescribeViewModel.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Models\\PrescribeViewModel.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Models\\PrescribeViewModel.cs",
+              "RelativeToolTip": "ClinicApp\\Models\\PrescribeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T17:21:36.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "20261026172022_AddMedicalModule.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Migrations\\20261026172022_AddMedicalModule.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Migrations\\20261026172022_AddMedicalModule.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Migrations\\20261026172022_AddMedicalModule.cs",
+              "RelativeToolTip": "ClinicApp\\Migrations\\20261026172022_AddMedicalModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T17:20:22.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CreateMedication.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Views\\Admin\\CreateMedication.cshtml",
+              "RelativeDocumentMoniker": "ClinicApp\\Views\\Admin\\CreateMedication.cshtml",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Views\\Admin\\CreateMedication.cshtml",
+              "RelativeToolTip": "ClinicApp\\Views\\Admin\\CreateMedication.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-26T17:20:00.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Medications.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Views\\Admin\\Medications.cshtml",
+              "RelativeDocumentMoniker": "ClinicApp\\Views\\Admin\\Medications.cshtml",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Views\\Admin\\Medications.cshtml",
+              "RelativeToolTip": "ClinicApp\\Views\\Admin\\Medications.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-26T17:18:57.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MedicationSchedule.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Models\\MedicationSchedule.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Models\\MedicationSchedule.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Models\\MedicationSchedule.cs",
+              "RelativeToolTip": "ClinicApp\\Models\\MedicationSchedule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T17:14:28.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Prescription.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Models\\Prescription.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Models\\Prescription.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Models\\Prescription.cs",
+              "RelativeToolTip": "ClinicApp\\Models\\Prescription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T17:13:56.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Medication.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Models\\Medication.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Models\\Medication.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Models\\Medication.cs",
+              "RelativeToolTip": "ClinicApp\\Models\\Medication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T17:13:17.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "20261026105558_AddPatientPhone.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Migrations\\20261026105558_AddPatientPhone.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Migrations\\20261026105558_AddPatientPhone.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Migrations\\20261026105558_AddPatientPhone.cs",
+              "RelativeToolTip": "ClinicApp\\Migrations\\20261026105558_AddPatientPhone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T10:55:58.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "20261026103812_AddPatientProfilesTable.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Migrations\\20261026103812_AddPatientProfilesTable.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Migrations\\20261026103812_AddPatientProfilesTable.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Migrations\\20261026103812_AddPatientProfilesTable.cs",
+              "RelativeToolTip": "ClinicApp\\Migrations\\20261026103812_AddPatientProfilesTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T10:38:12.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "20261026101429_AddPatientProfile.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Migrations\\20261026101429_AddPatientProfile.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Migrations\\20261026101429_AddPatientProfile.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Migrations\\20261026101429_AddPatientProfile.cs",
+              "RelativeToolTip": "ClinicApp\\Migrations\\20261026101429_AddPatientProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T10:14:29.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Views\\Patient\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClinicApp\\Views\\Patient\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Views\\Patient\\Index.cshtml",
+              "RelativeToolTip": "ClinicApp\\Views\\Patient\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-26T10:13:11.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "ClinicApp\\Controllers\\PatientController.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAYwMIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T10:11:04.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "PatientProfile.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Models\\PatientProfile.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Models\\PatientProfile.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Models\\PatientProfile.cs",
+              "RelativeToolTip": "ClinicApp\\Models\\PatientProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T10:09:37.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "20261026100403_RollbackNames.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Migrations\\20261026100403_RollbackNames.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Migrations\\20261026100403_RollbackNames.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Migrations\\20261026100403_RollbackNames.cs",
+              "RelativeToolTip": "ClinicApp\\Migrations\\20261026100403_RollbackNames.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T10:04:03.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "20261026095443_FixUserColumns.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Migrations\\20261026095443_FixUserColumns.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Migrations\\20261026095443_FixUserColumns.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Migrations\\20261026095443_FixUserColumns.cs",
+              "RelativeToolTip": "ClinicApp\\Migrations\\20261026095443_FixUserColumns.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T09:54:43.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20261026094215_FixPatientNames.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Migrations\\20261026094215_FixPatientNames.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Migrations\\20261026094215_FixPatientNames.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Migrations\\20261026094215_FixPatientNames.cs",
+              "RelativeToolTip": "ClinicApp\\Migrations\\20261026094215_FixPatientNames.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T09:42:15.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "20261026091636_AddPatronymic.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Migrations\\20261026091636_AddPatronymic.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Migrations\\20261026091636_AddPatronymic.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Migrations\\20261026091636_AddPatronymic.cs",
+              "RelativeToolTip": "ClinicApp\\Migrations\\20261026091636_AddPatronymic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T09:16:36.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "20261026090904_AddPatientNames.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Migrations\\20261026090904_AddPatientNames.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Migrations\\20261026090904_AddPatientNames.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Migrations\\20261026090904_AddPatientNames.cs",
+              "RelativeToolTip": "ClinicApp\\Migrations\\20261026090904_AddPatientNames.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T09:09:04.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MyPatients.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Views\\Doctor\\MyPatients.cshtml",
+              "RelativeDocumentMoniker": "ClinicApp\\Views\\Doctor\\MyPatients.cshtml",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Views\\Doctor\\MyPatients.cshtml",
+              "RelativeToolTip": "ClinicApp\\Views\\Doctor\\MyPatients.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-25T11:00:17.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MyAppointments.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Views\\Booking\\MyAppointments.cshtml",
+              "RelativeDocumentMoniker": "ClinicApp\\Views\\Booking\\MyAppointments.cshtml",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Views\\Booking\\MyAppointments.cshtml",
+              "RelativeToolTip": "ClinicApp\\Views\\Booking\\MyAppointments.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-25T10:52:41.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "20261025083937_FixDoctorColumns.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Migrations\\20261025083937_FixDoctorColumns.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Migrations\\20261025083937_FixDoctorColumns.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Migrations\\20261025083937_FixDoctorColumns.cs",
+              "RelativeToolTip": "ClinicApp\\Migrations\\20261025083937_FixDoctorColumns.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T08:39:37.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "20261025081052_ResetDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Migrations\\20261025081052_ResetDatabase.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Migrations\\20261025081052_ResetDatabase.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Migrations\\20261025081052_ResetDatabase.cs",
+              "RelativeToolTip": "ClinicApp\\Migrations\\20261025081052_ResetDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T08:10:52.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "20261025080257_FixUserModel.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Migrations\\20261025080257_FixUserModel.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Migrations\\20261025080257_FixUserModel.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Migrations\\20261025080257_FixUserModel.cs",
+              "RelativeToolTip": "ClinicApp\\Migrations\\20261025080257_FixUserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T08:02:57.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "ClinicApp\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "ClinicApp\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-25T07:59:14.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ClinicApp\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAYwF8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T07:57:50.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "ClinicApp\\Models\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T07:57:07.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "20261023092307_AddUserFullName.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Migrations\\20261023092307_AddUserFullName.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Migrations\\20261023092307_AddUserFullName.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Migrations\\20261023092307_AddUserFullName.cs",
+              "RelativeToolTip": "ClinicApp\\Migrations\\20261023092307_AddUserFullName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T09:23:07.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Appointments.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Views\\Admin\\Appointments.cshtml",
+              "RelativeDocumentMoniker": "ClinicApp\\Views\\Admin\\Appointments.cshtml",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Views\\Admin\\Appointments.cshtml",
+              "RelativeToolTip": "ClinicApp\\Views\\Admin\\Appointments.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAQwEsAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-23T09:14:38.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20261023090441_AddNavigationProperties.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Migrations\\20261023090441_AddNavigationProperties.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Migrations\\20261023090441_AddNavigationProperties.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Migrations\\20261023090441_AddNavigationProperties.cs",
+              "RelativeToolTip": "ClinicApp\\Migrations\\20261023090441_AddNavigationProperties.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwCIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T09:04:41.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "RedirectController.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Controllers\\RedirectController.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Controllers\\RedirectController.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Controllers\\RedirectController.cs",
+              "RelativeToolTip": "ClinicApp\\Controllers\\RedirectController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T08:51:55.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ClinicApp\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "ClinicApp\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-23T08:46:44.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "20261023082024_FixDateTimeTypes.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Migrations\\20261023082024_FixDateTimeTypes.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Migrations\\20261023082024_FixDateTimeTypes.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Migrations\\20261023082024_FixDateTimeTypes.cs",
+              "RelativeToolTip": "ClinicApp\\Migrations\\20261023082024_FixDateTimeTypes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T08:20:24.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "20261023074235_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Migrations\\20261023074235_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Migrations\\20261023074235_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Migrations\\20261023074235_InitialCreate.cs",
+              "RelativeToolTip": "ClinicApp\\Migrations\\20261023074235_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T07:42:35.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "20261020115256_FixDateTimeTypes.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Migrations\\20261020115256_FixDateTimeTypes.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Migrations\\20261020115256_FixDateTimeTypes.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Migrations\\20261020115256_FixDateTimeTypes.cs",
+              "RelativeToolTip": "ClinicApp\\Migrations\\20261020115256_FixDateTimeTypes.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T11:52:56.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "CreateSchedule.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Views\\Doctor\\CreateSchedule.cshtml",
+              "RelativeDocumentMoniker": "ClinicApp\\Views\\Doctor\\CreateSchedule.cshtml",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Views\\Doctor\\CreateSchedule.cshtml",
+              "RelativeToolTip": "ClinicApp\\Views\\Doctor\\CreateSchedule.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-20T11:23:55.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Views\\Doctor\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClinicApp\\Views\\Doctor\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Views\\Doctor\\Index.cshtml",
+              "RelativeToolTip": "ClinicApp\\Views\\Doctor\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-20T11:23:09.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "ClinicApp\\Controllers\\DoctorController.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAIwHIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T11:21:55.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CreateDoctor.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Views\\Admin\\CreateDoctor.cshtml",
+              "RelativeDocumentMoniker": "ClinicApp\\Views\\Admin\\CreateDoctor.cshtml",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Views\\Admin\\CreateDoctor.cshtml",
+              "RelativeToolTip": "ClinicApp\\Views\\Admin\\CreateDoctor.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwCMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-20T10:58:53.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClinicApp\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "ClinicApp\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-20T10:58:31.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "ClinicApp\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAASwEsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T10:56:57.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "DoctorCreateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Models\\DoctorCreateViewModel.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Models\\DoctorCreateViewModel.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Models\\DoctorCreateViewModel.cs",
+              "RelativeToolTip": "ClinicApp\\Models\\DoctorCreateViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T10:56:06.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "ClinicApp\\Data\\DbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T10:47:07.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Views\\Booking\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClinicApp\\Views\\Booking\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Views\\Booking\\Index.cshtml",
+              "RelativeToolTip": "ClinicApp\\Views\\Booking\\Index.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAGoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-20T10:16:35.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "ClinicApp\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAYwHAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T10:14:46.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Services\\AppointmentService.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Services\\AppointmentService.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Services\\AppointmentService.cs",
+              "RelativeToolTip": "ClinicApp\\Services\\AppointmentService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAzwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T10:13:16.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Program.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Program.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Program.cs",
+              "RelativeToolTip": "ClinicApp\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAYwDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T09:52:54.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ClinicApp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwB0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T09:52:26.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Models\\Appointment.cs",
+              "RelativeToolTip": "ClinicApp\\Models\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T09:51:47.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "TimeSlot.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Models\\TimeSlot.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Models\\TimeSlot.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Models\\TimeSlot.cs",
+              "RelativeToolTip": "ClinicApp\\Models\\TimeSlot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T09:51:20.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Schedule.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Models\\Schedule.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Models\\Schedule.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Models\\Schedule.cs",
+              "RelativeToolTip": "ClinicApp\\Models\\Schedule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T09:50:43.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "DoctorProfile.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Models\\DoctorProfile.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Models\\DoctorProfile.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Models\\DoctorProfile.cs",
+              "RelativeToolTip": "ClinicApp\\Models\\DoctorProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T09:49:46.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ClinicApp.csproj",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\ClinicApp.csproj",
+              "RelativeDocumentMoniker": "ClinicApp\\ClinicApp.csproj",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\ClinicApp.csproj",
+              "RelativeToolTip": "ClinicApp\\ClinicApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-20T09:36:27.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ClinicApp\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\appsettings.Development.json",
+              "RelativeToolTip": "ClinicApp\\appsettings.Development.json",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-20T09:42:39.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\appsettings.json",
+              "RelativeDocumentMoniker": "ClinicApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\appsettings.json",
+              "RelativeToolTip": "ClinicApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-20T09:34:21.927Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 28,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ClinicApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ClinicApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-27T13:00:14.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "ClinicApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAYwKsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T09:29:20.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "ClinicApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "ClinicApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-26T08:57:04.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "ClinicApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "ClinicApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-26T08:56:22.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "ClinicApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "ClinicApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-26T08:55:54.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ClinicApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "ClinicApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-26T08:55:37.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\ClinicApp\\ClinicApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "ClinicApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T08:55:39.648Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

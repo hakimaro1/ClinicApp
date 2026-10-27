@@ -1,0 +1,62 @@
+﻿@model IEnumerable<ClinicApp.Models.Appointment>
+@using ClinicApp.Models
+
+@{
+    var patientProfiles = ViewBag.PatientProfiles as List<PatientProfile>;
+}
+
+<h2>Мои приемы (Записанные пациенты)</h2>
+
+@if (!Model.Any())
+{
+    <p>У вас пока нет записанных пациентов.</p>
+}
+else
+{
+    <table class="table table-bordered mt-4">
+        <thead class="table-dark">
+            <tr>
+                <th>Дата и время</th>
+                <th>Пациент (ФИО)</th>
+                <th>Статус</th>
+                <th>Действие</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                // Ищем профиль пациента по его ID (PatientId из записи)
+                var profile = patientProfiles?.FirstOrDefault(p => p.UserId == item.PatientId);
+
+                // Формируем ФИО
+                string patientName = "Не указано";
+                if (profile != null && (!string.IsNullOrWhiteSpace(profile.LastName) || !string.IsNullOrWhiteSpace(profile.FirstName)))
+                {
+                    patientName = $"{profile.LastName} {profile.FirstName} {profile.Patronymic}".Trim();
+                }
+
+                <tr>
+                    <td>@item.TimeSlot?.Start.ToString("dd.MM.yyyy HH:mm")</td>
+                    <td>@patientName</td>
+                    <td>
+                        @if (item.TimeSlot?.Start < DateTime.Now)
+                        {
+                            <span class="badge bg-secondary">Завершен</span>
+                        }
+                        else if (item.TimeSlot?.Status == "Confirmed")
+                        {
+                            <span class="badge bg-success">Подтвержден</span>
+                        }
+                        else
+                        {
+                            <span class="badge bg-warning text-dark">Ожидает</span>
+                        }
+                    </td>
+                    <td>
+                        <a asp-action="MedicalRecord" asp-route-appointmentId="@item.Id" class="btn btn-sm btn-outline-primary">Открыть карту</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

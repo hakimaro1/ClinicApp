@@ -1,0 +1,24 @@
+﻿<h2>Создание расписания</h2>
+
+<form asp-action="CreateSchedule" method="post">
+    <div class="form-group mb-3">
+        <label>Дата</label>
+        <input type="date" name="workDay" class="form-control" required />
+    </div>
+    <div class="form-group mb-3">
+        <label>Начало смены</label>
+        <input type="time" name="startTime" class="form-control" required />
+    </div>
+    <div class="form-group mb-3">
+        <label>Конец смены</label>
+        <input type="time" name="endTime" class="form-control" required />
+    </div>
+    <div class="form-group mb-3">
+        <label>Длительность слота (мин)</label>
+        <select name="slotDurationMinutes" class="form-control">
+            <option value="30">30 минут</option>
+            <option value="15">15 минут</option>
+        </select>
+    </div>
+    <button type="submit" class="btn btn-primary">Создать слоты</button>
+</form>

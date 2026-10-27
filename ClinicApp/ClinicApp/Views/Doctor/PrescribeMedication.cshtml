@@ -1,0 +1,22 @@
+﻿@{
+    var medications = ViewBag.Medications as List<ClinicApp.Models.Medication>;
+}
+
+<h2>Назначение лекарства</h2>
+
+<form asp-action="PrescribeMedication" method="post">
+    <input type="hidden" name="appointmentId" value="@ViewBag.AppointmentId" />
+
+    <div class="form-group mb-3">
+        <label>Выберите лекарство из справочника</label>
+        <select name="medicationId" class="form-control">
+            @foreach (var med in medications)
+            {
+                <option value="@med.Id">@med.Name (@med.Dosage, @med.Form)</option>
+            }
+        </select>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Назначить</button>
+    <a asp-action="MedicalRecord" asp-route-appointmentId="@ViewBag.AppointmentId" class="btn btn-secondary">Назад</a>
+</form>

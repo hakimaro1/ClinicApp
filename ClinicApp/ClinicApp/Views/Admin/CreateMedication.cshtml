@@ -1,0 +1,18 @@
+﻿@model ClinicApp.Models.Medication
+
+<h2>Добавление лекарства</h2>
+<form asp-action="CreateMedication" method="post">
+    <div class="form-group mb-3">
+        <label>Название</label>
+        <input asp-for="Name" class="form-control" required />
+    </div>
+    <div class="form-group mb-3">
+        <label>Дозировка</label>
+        <input asp-for="Dosage" class="form-control" required />
+    </div>
+    <div class="form-group mb-3">
+        <label>Форма выпуска</label>
+        <input asp-for="Form" class="form-control" required />
+    </div>
+    <button type="submit" class="btn btn-primary">Сохранить</button>
+</form>

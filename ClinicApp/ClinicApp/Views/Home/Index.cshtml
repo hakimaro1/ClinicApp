@@ -1,0 +1,50 @@
+﻿@{
+    ViewData["Title"] = "Главная";
+}
+
+<div class="container mt-4">
+    <div class="row align-items-center mb-5">
+        <!-- Левая часть: Картинка с котом -->
+        <div class="col-md-5 text-center">
+            <img src="~/images/doctor-cat.jpg" alt="Добрый кот-врач" class="img-fluid rounded-circle shadow-lg" style="max-height: 350px; object-fit: cover;" />
+        </div>
+
+        <!-- Правая часть: Приветствие -->
+        <div class="col-md-7 text-center text-md-start">
+            <h1 class="display-4" style="color: #2575fc; font-weight: bold;">Клиника Добрый Кот 🐾</h1>
+            <p class="lead mt-3">
+                Мы заботимся о вашем здоровье с любовью и профессионализмом.
+                Выберите, как вы хотите продолжить работу с системой.
+            </p>
+        </div>
+    </div>
+
+    <!-- Блоки выбора -->
+    <div class="row justify-content-center">
+        <!-- Блок для пациента -->
+        <div class="col-md-5 mb-4">
+            <div class="card shadow-lg border-0 h-100 p-4">
+                <div class="card-body text-center">
+                    <h2 class="card-title text-primary">👤 Я Пациент</h2>
+                    <p class="card-text text-muted mt-3">
+                        Запись на прием, просмотр истории болезни, общение с врачом и контроль лечения.
+                    </p>
+                    <a asp-controller="Booking" asp-action="Index" class="btn btn-primary btn-lg mt-3 w-100">Перейти к записи</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Блок для сотрудников -->
+        <div class="col-md-5 mb-4">
+            <div class="card shadow-lg border-0 h-100 p-4">
+                <div class="card-body text-center">
+                    <h2 class="card-title text-success">👨‍⚕️ Я Сотрудник</h2>
+                    <p class="card-text text-muted mt-3">
+                        Панель администратора, расписание врачей, управление приемами и картами пациентов.
+                    </p>
+                    <a asp-controller="Account" asp-action="StaffLogin" class="btn btn-success btn-lg mt-3 w-100">Вход для сотрудников</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

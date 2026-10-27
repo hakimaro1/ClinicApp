@@ -1,0 +1,55 @@
+﻿@model ClinicApp.Models.PrescribeViewModel
+@{
+    var medications = ViewBag.Medications as List<ClinicApp.Models.Medication>;
+    var patientName = ViewBag.PatientName as string;
+}
+
+<h2>Назначение лечения</h2>
+<h4>Пациент: <strong>@patientName</strong></h4>
+<hr />
+
+@if (!ViewData.ModelState.IsValid)
+{
+    <div class="alert alert-danger">
+        @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+        {
+            <p>@error.ErrorMessage</p>
+        }
+    </div>
+}
+
+<form asp-action="Prescribe" method="post">
+    <input type="hidden" asp-for="PatientId" />
+
+    <div class="form-group mb-3">
+        <label>Лекарство</label>
+        <select asp-for="MedicationId" class="form-control" required>
+            <option value="">-- Выберите лекарство --</option>
+            @if (medications != null)
+            {
+                foreach (var med in medications)
+                {
+                    <option value="@med.Id">@med.Name (@med.Dosage) - @med.Form</option>
+                }
+            }
+        </select>
+    </div>
+
+    <div class="form-group mb-3">
+        <label>Инструкция по приему</label>
+        <input asp-for="Instruction" class="form-control" placeholder="Например: Принимать после еды" required />
+    </div>
+
+    <div class="form-group mb-3">
+        <label>Длительность (дней)</label>
+        <input asp-for="DurationDays" type="number" class="form-control" min="1" max="365" required />
+    </div>
+
+    <div class="form-group mb-3">
+        <label>Время первого приема (ежедневно)</label>
+        <input asp-for="FirstIntakeTime" type="time" class="form-control" required />
+    </div>
+
+    <button type="submit" class="btn btn-success">Назначить лечение</button>
+    <a asp-action="MyPatients" class="btn btn-secondary">Отмена</a>
+</form>

@@ -1,0 +1,107 @@
+﻿@model IEnumerable<ClinicApp.Models.TimeSlot>
+@using ClinicApp.Models
+@{
+    var specializations = ViewBag.Specializations as List<string>;
+    var doctors = ViewBag.Doctors as List<DoctorProfile>;
+    var allDoctors = ViewBag.AllDoctors as List<DoctorProfile>;
+    var selectedSpec = ViewBag.SelectedSpecialization as string;
+    var selectedDocId = ViewBag.SelectedDoctorId as int?;
+}
+
+<h2>Онлайн-запись на прием</h2>
+
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success">@TempData["Success"]</div>
+}
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger">@TempData["Error"]</div>
+}
+
+<!-- НАВИГАЦИЯ ПО ЛИЧНОМУ КАБИНЕТУ (ВОЗВРАЩЕНО) -->
+<div class="mb-4 d-flex gap-2">
+    <a asp-controller="Patient" asp-action="Index" class="btn btn-outline-primary">Мой профиль</a>
+    <a asp-controller="Patient" asp-action="MedicalHistory" class="btn btn-outline-info">Моя медицинская карта</a>
+    <a asp-action="MyAppointments" class="btn btn-outline-secondary">Мои записи</a>
+</div>
+
+<!-- Форма фильтрации -->
+<form method="get" asp-action="Index" class="card p-3 mb-4 bg-light">
+    <div class="row align-items-end">
+        <div class="col-md-4">
+            <label>Специальность</label>
+            <select name="specialization" class="form-control" onchange="this.form.submit()">
+                <option value="">-- Выберите специальность --</option>
+                @foreach (var spec in specializations)
+                {
+                    <option value="@spec" selected="@(spec == selectedSpec)">@spec</option>
+                }
+            </select>
+        </div>
+        <div class="col-md-4">
+            <label>Врач</label>
+            <select name="doctorId" class="form-control" onchange="this.form.submit()">
+                <option value="">-- Выберите врача --</option>
+                @foreach (var doc in doctors)
+                {
+                    var name = $"{doc.LastName} {doc.FirstName}".Trim();
+                    <option value="@doc.Id" selected="@(doc.Id == selectedDocId)">@name</option>
+                }
+            </select>
+        </div>
+        <div class="col-md-4">
+            <button type="submit" class="btn btn-primary w-100">Показать время</button>
+            <a asp-action="Index" class="btn btn-outline-secondary w-100 mt-1">Сбросить</a>
+        </div>
+    </div>
+</form>
+
+<!-- Таблица слотов -->
+@if (!Model.Any())
+{
+    <div class="alert alert-info">
+        @if (selectedDocId.HasValue || !string.IsNullOrEmpty(selectedSpec))
+        {
+            <span>Нет свободных слотов для выбранного врача/специальности.</span>
+        }
+        else
+        {
+            <span>Пожалуйста, выберите специальность и врача, чтобы увидеть свободное время.</span>
+        }
+    </div>
+}
+else
+{
+    <table class="table table-bordered mt-4">
+        <thead class="table-dark">
+            <tr>
+                <th>Дата и время</th>
+                <th>Врач (ФИО)</th>
+                <th>Специализация</th>
+                <th>Действие</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var slot in Model)
+            {
+                var doctor = allDoctors?.FirstOrDefault(d => d.Id == slot.Schedule?.DoctorId);
+                var doctorName = $"{doctor?.LastName} {doctor?.FirstName}".Trim();
+                if (string.IsNullOrWhiteSpace(doctorName)) doctorName = "Врач не указан";
+                var specialization = doctor?.Specialization ?? "Не указана";
+
+                <tr>
+                    <td>@slot.Start.ToString("dd.MM.yyyy HH:mm")</td>
+                    <td>@doctorName</td>
+                    <td>@specialization</td>
+                    <td>
+                        <form asp-action="Book" method="post">
+                            <input type="hidden" name="timeSlotId" value="@slot.Id" />
+                            <button type="submit" class="btn btn-primary btn-sm">Записаться</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

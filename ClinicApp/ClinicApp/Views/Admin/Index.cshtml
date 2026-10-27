@@ -1,0 +1,28 @@
+﻿@model IEnumerable<ClinicApp.Models.DoctorProfile>
+
+<h2>Панель администратора: Врачи</h2>
+
+<p>
+    <a asp-action="CreateDoctor" class="btn btn-success">Добавить нового врача</a>
+    <a asp-action="Appointments" class="btn btn-primary">Смотреть все записи (Контроль)</a>
+</p>
+
+<table class="table table-bordered">
+    <thead class="table-dark">
+        <tr>
+            <th>ID</th>
+            <th>ФИО Врача</th>
+            <th>Специализация</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.LastName @item.FirstName</td>
+                <td>@item.Specialization</td>
+            </tr>
+        }
+    </tbody>
+</table>

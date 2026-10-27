@@ -1,0 +1,89 @@
+﻿@model ClinicApp.Models.MedicalRecord
+
+<h2>Медицинская карта</h2>
+<h4>Пациент: @ViewBag.PatientName</h4>
+
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success">@TempData["Success"]</div>
+}
+
+<!-- Форма для ввода диагноза и лечения -->
+<form asp-action="MedicalRecord" method="post">
+    <input type="hidden" asp-for="AppointmentId" />
+
+    <div class="form-group mb-3">
+        <label asp-for="Diagnosis">Диагноз</label>
+        <textarea asp-for="Diagnosis" class="form-control" rows="2" placeholder="Введите диагноз..."></textarea>
+    </div>
+
+    <div class="form-group mb-3">
+        <label asp-for="Treatment">Назначенное лечение</label>
+        <textarea asp-for="Treatment" class="form-control" rows="2" placeholder="Опишите лечение..."></textarea>
+    </div>
+
+    <div class="form-group mb-3">
+        <label asp-for="History">История болезни (жалобы)</label>
+        <textarea asp-for="History" class="form-control" rows="2" placeholder="Запишите жалобы пациента..."></textarea>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Сохранить карту</button>
+</form>
+
+<hr />
+
+<!-- Таблица назначенных лекарств -->
+<h4>Назначенные лекарства</h4>
+@if (Model.Medications != null && Model.Medications.Any())
+{
+    <table class="table table-sm table-bordered">
+        <thead class="table-dark">
+            <tr>
+                <th>Лекарство</th>
+                <th>Дозировка</th>
+                <th>Принял?</th>
+                <th>Действие</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var med in Model.Medications)
+            {
+                <tr>
+                    <td>@med.Name</td>
+                    <td>@med.Dosage</td>
+                    <td>
+                        @if (med.IsTaken)
+                        {
+                            <span class="badge bg-success">Да</span>
+                        }
+                        else
+                        {
+                            <span class="badge bg-danger">Нет</span>
+                        }
+                    </td>
+                    <td>
+                        <form asp-action="RemoveMedication" method="post">
+                            <input type="hidden" name="medicationId" value="@med.Id" />
+                            <input type="hidden" name="appointmentId" value="@Model.AppointmentId" />
+                            <button type="submit" class="btn btn-sm btn-danger">Отменить</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>Лекарства не назначены.</p>
+}
+
+<!-- Кнопки управления -->
+<div class="mt-3">
+    <!-- НОВАЯ КНОПКА: Чат с пациентом -->
+    <a asp-action="Chat" asp-route-appointmentId="@Model.AppointmentId" class="btn btn-info text-white">Чат с пациентом</a>
+
+    <a asp-action="Medications" class="btn btn-outline-primary">Справочник лекарств (Добавить)</a>
+    <a asp-action="PrescribeMedication" asp-route-appointmentId="@Model.AppointmentId" class="btn btn-success">Назначить лекарство</a>
+    <a asp-action="MyPatients" class="btn btn-secondary">Назад к списку пациентов</a>
+</div>

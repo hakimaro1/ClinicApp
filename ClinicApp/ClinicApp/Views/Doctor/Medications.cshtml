@@ -1,0 +1,33 @@
+﻿@model IEnumerable<ClinicApp.Models.Medication>
+
+<h2>Справочник лекарств</h2>
+
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success">@TempData["Success"]</div>
+}
+
+<p>
+    <a asp-action="CreateMedication" class="btn btn-success">Добавить новое лекарство</a>
+    <a asp-action="Index" class="btn btn-secondary">Назад в кабинет</a>
+</p>
+
+<table class="table table-bordered mt-4">
+    <thead class="table-dark">
+        <tr>
+            <th>Название</th>
+            <th>Дозировка</th>
+            <th>Форма выпуска</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Dosage</td>
+                <td>@item.Form</td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,83 @@
+﻿@model IEnumerable<ClinicApp.Models.MedicationSchedule>
+@using ClinicApp.Models
+
+@{
+    var prescriptions = ViewBag.Prescriptions as List<Prescription>;
+}
+
+<h2>Мой график лечения</h2>
+
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success">@TempData["Success"]</div>
+}
+
+@if (!Model.Any())
+{
+    <p>У вас пока нет назначенного лечения.</p>
+}
+else
+{
+    <div class="row">
+        <!-- Блок с общими назначениями -->
+        <div class="col-md-4 mb-4">
+            <div class="card">
+                <div class="card-header bg-primary text-white">
+                    Мои назначения
+                </div>
+                <ul class="list-group list-group-flush">
+                    @foreach (var p in prescriptions!)
+                    {
+                        <li class="list-group-item">
+                            <strong>@p.Medication?.Name</strong> (@p.Medication?.Dosage)<br />
+                            <small>@p.Instruction</small><br />
+                            <small class="text-muted">Курс: @p.DurationDays дней</small>
+                        </li>
+                    }
+                </ul>
+            </div>
+        </div>
+
+        <!-- Блок с календарем приема -->
+        <div class="col-md-8">
+            <table class="table table-bordered">
+                <thead class="table-dark">
+                    <tr>
+                        <th>Дата и время</th>
+                        <th>Лекарство</th>
+                        <th>Статус</th>
+                        <th>Действие</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr class="@(item.IsTaken ? "table-success" : "")">
+                            <td>@item.IntakeTime.ToString("dd.MM.yyyy HH:mm")</td>
+                            <td>@item.Prescription?.Medication?.Name</td>
+                            <td>
+                                @if (item.IsTaken)
+                                {
+                                    <span class="badge bg-success">Выпито</span>
+                                }
+                                else
+                                {
+                                    <span class="badge bg-warning text-dark">Ожидает</span>
+                                }
+                            </td>
+                            <td>
+                                @if (!item.IsTaken)
+                                {
+                                    <form asp-action="MarkAsTaken" method="post">
+                                        <input type="hidden" name="scheduleId" value="@item.Id" />
+                                        <button type="submit" class="btn btn-sm btn-outline-success">Я выпил</button>
+                                    </form>
+                                }
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+}
