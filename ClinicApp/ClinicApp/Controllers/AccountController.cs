@@ -15,7 +15,9 @@ namespace ClinicApp.Controllers
             _signInManager = signInManager;
         }
 
-        // Регистрация пациента (оставлена без изменений)
+        // ==========================================
+        // РЕГИСТРАЦИЯ ПАЦИЕНТА (Только Email и Пароль)
+        // ==========================================
         [HttpGet]
         public IActionResult Register()
         {
@@ -37,14 +39,9 @@ namespace ClinicApp.Controllers
 
                 if (result.Succeeded)
                 {
-                    // СОХРАНЯЕМ ФИО ЧЕРЕЗ РЕФЛЕКСИЮ
-                    user.GetType().GetProperty("FirstName")?.SetValue(user, model.FirstName);
-                    user.GetType().GetProperty("LastName")?.SetValue(user, model.LastName);
-                    user.GetType().GetProperty("Patronymic")?.SetValue(user, model.Patronymic);
-
-                    await _userManager.UpdateAsync(user);
-
+                    // Даем роль Пациент
                     await _userManager.AddToRoleAsync(user, "Patient");
+                    // Входим в систему
                     await _signInManager.SignInAsync(user, isPersistent: false);
                     return RedirectToAction("Index", "Home");
                 }

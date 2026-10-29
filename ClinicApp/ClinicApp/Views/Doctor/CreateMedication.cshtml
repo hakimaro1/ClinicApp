@@ -3,19 +3,29 @@
 <h2>Добавление лекарства</h2>
 <hr />
 
+@if (!ViewData.ModelState.IsValid)
+{
+    <div class="alert alert-danger">
+        @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+        {
+            <p>@error.ErrorMessage</p>
+        }
+    </div>
+}
+
 <form asp-action="CreateMedication" method="post">
     <div class="form-group mb-3">
-        <label>Название</label>
+        <label asp-for="Name">Название</label>
         <input asp-for="Name" class="form-control" required />
         <span asp-validation-for="Name" class="text-danger"></span>
     </div>
     <div class="form-group mb-3">
-        <label>Дозировка</label>
+        <label asp-for="Dosage">Дозировка</label>
         <input asp-for="Dosage" class="form-control" placeholder="Например: 500 мг" required />
         <span asp-validation-for="Dosage" class="text-danger"></span>
     </div>
     <div class="form-group mb-3">
-        <label>Форма выпуска</label>
+        <label asp-for="Form">Форма выпуска</label>
         <input asp-for="Form" class="form-control" placeholder="Например: Таблетки" required />
         <span asp-validation-for="Form" class="text-danger"></span>
     </div>

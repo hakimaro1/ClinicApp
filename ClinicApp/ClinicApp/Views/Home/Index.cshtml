@@ -29,7 +29,17 @@
                     <p class="card-text text-muted mt-3">
                         Запись на прием, просмотр истории болезни, общение с врачом и контроль лечения.
                     </p>
-                    <a asp-controller="Booking" asp-action="Index" class="btn btn-primary btn-lg mt-3 w-100">Перейти к записи</a>
+
+                    @if (User.Identity?.IsAuthenticated == true)
+                    {
+                        <a asp-controller="Booking" asp-action="Index" class="btn btn-primary btn-lg mt-3 w-100">Перейти к записи</a>
+                    }
+                    else
+                    {
+                        <a asp-controller="Account" asp-action="Register" class="btn btn-primary btn-lg mt-3 w-100">Зарегистрироваться для записи</a>
+                        <!-- ИСПРАВЛЕНО: Убран asp-controller, оставлен только asp-page -->
+                        <a asp-area="Identity" asp-page="/Account/Login" class="btn btn-outline-primary btn-lg mt-2 w-100">Войти</a>
+                    }
                 </div>
             </div>
         </div>

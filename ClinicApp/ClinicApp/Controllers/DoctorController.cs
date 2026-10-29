@@ -139,20 +139,38 @@ namespace ClinicApp.Controllers
             return RedirectToAction("MedicalRecord", new { appointmentId = model.AppointmentId });
         }
 
+        // Показываем только справочник (без дублей из карт)
         public async Task<IActionResult> Medications()
         {
-            var meds = await _context.Medications.ToListAsync();
+            var meds = await _context.Medications
+                .Where(m => m.MedicalRecordId == null)
+                .ToListAsync();
             return View(meds);
         }
 
         [HttpGet]
         public IActionResult CreateMedication() => View();
 
+        // ИСПРАВЛЕНО: Проверка на дубликаты перед добавлением
         [HttpPost]
         public async Task<IActionResult> CreateMedication(Medication model)
         {
             if (ModelState.IsValid)
             {
+                // Проверяем, есть ли уже такое лекарство в справочнике
+                var existingMed = await _context.Medications
+                    .FirstOrDefaultAsync(m => m.MedicalRecordId == null &&
+                                              m.Name.ToLower() == model.Name.ToLower() &&
+                                              m.Dosage.ToLower() == model.Dosage.ToLower() &&
+                                              m.Form.ToLower() == model.Form.ToLower());
+
+                if (existingMed != null)
+                {
+                    // Если такое есть, показываем ошибку и возвращаем форму
+                    ModelState.AddModelError("", "Такое лекарство уже есть в справочнике!");
+                    return View(model);
+                }
+
                 _context.Medications.Add(model);
                 await _context.SaveChangesAsync();
                 TempData["Success"] = "Лекарство успешно добавлено!";
@@ -167,7 +185,10 @@ namespace ClinicApp.Controllers
             var appointment = await _context.Appointments.FindAsync(appointmentId);
             if (appointment == null) return NotFound();
 
-            ViewBag.Medications = await _context.Medications.ToListAsync();
+            // Для назначения показываем ТОЛЬКО справочник (без дублей)
+            ViewBag.Medications = await _context.Medications
+                .Where(m => m.MedicalRecordId == null)
+                .ToListAsync();
             ViewBag.AppointmentId = appointmentId;
 
             return View();
@@ -224,14 +245,12 @@ namespace ClinicApp.Controllers
         // ЧАТ С ПАЦИЕНТОМ (Для врача)
         // ==========================================
 
-        // Страница чата для врача
         public async Task<IActionResult> Chat(int appointmentId)
         {
             var userId = _userManager.GetUserId(User);
             var doctor = await _context.DoctorProfiles.FirstOrDefaultAsync(d => d.UserId == userId);
             if (doctor == null) return NotFound("Профиль врача не найден.");
 
-            // Проверяем, что этот прием у этого врача
             var appointment = await _context.Appointments
                 .Include(a => a.TimeSlot)
                 .FirstOrDefaultAsync(a => a.Id == appointmentId && a.TimeSlot!.Schedule!.DoctorId == doctor.Id);
@@ -247,7 +266,6 @@ namespace ClinicApp.Controllers
             return View(messages);
         }
 
-        // Отправка сообщения врачом
         [HttpPost]
         public async Task<IActionResult> SendMessage(int appointmentId, string text)
         {
